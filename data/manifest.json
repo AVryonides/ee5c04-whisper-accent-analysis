@@ -1,0 +1,122 @@
+[
+  {
+    "filename": "canadian_baseline_predictions.csv",
+    "recordings": 407,
+    "sha256": "d797363365d1339f36fdf3a8bf14846272e22245d9cf9ba42dc38253ba9dff64",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "canadian_finetuned_decoding_predictions.csv",
+    "recordings": 407,
+    "sha256": "2cfdd8a2f0aeaa83928524104bf62e5196d3c98081c4610d7a0057c5e6fc4b2f",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "chinese_baseline_predictions.csv",
+    "recordings": 629,
+    "sha256": "920d8e3baea08b8d71ef7f967bc83402cecdb1b1cdebd24fb08705abd93dbd97",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "chinese_finetuned_decoding_predictions.csv",
+    "recordings": 629,
+    "sha256": "8ca266cf670677bc4d1f919a10b937e5e7ac19d916a2cef17c77f5d9c9c995a4",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "indian_baseline_predictions.csv",
+    "recordings": 650,
+    "sha256": "b81b2b224e373c3e76fa33448d0002b6c69917a826e417e0b303db9a3f8590c3",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "indian_finetuned_decoding_predictions.csv",
+    "recordings": 650,
+    "sha256": "e130bb26e10b189ab539135cfd8ed7e034abb019bf173012a932df76382ef4ec",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "japanese_baseline_predictions.csv",
+    "recordings": 700,
+    "sha256": "b1cc2c0745ac86a5849bf5ae7896bbeb8425acbacf206c04d584922bebfe1602",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "japanese_finetuned_decoding_predictions.csv",
+    "recordings": 700,
+    "sha256": "5ad8ac9c83d320794c62a6d6f48f70937970cac8fbfb9d364af8bce3d1b75543",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "korean_baseline_predictions.csv",
+    "recordings": 450,
+    "sha256": "ccaa7da3253982eea0d0b97eb52032a48a05a7d70130ed551219aba531cb8630",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  },
+  {
+    "filename": "korean_finetuned_decoding_predictions.csv",
+    "recordings": 450,
+    "sha256": "59b278e51dd99e629df5e9d1b5efb219bfdbffe9ee2ac4446c32e154ee53143e",
+    "columns": [
+      "reference",
+      "hypothesis",
+      "normalized_reference",
+      "normalized_hypothesis"
+    ],
+    "publicly_included": false
+  }
+]

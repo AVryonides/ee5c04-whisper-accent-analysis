@@ -1,0 +1,11 @@
+Accent,Model,Recordings,Reference Words,Correct Words,Substitutions,Deletions,Insertions,Total Errors,WER (%),Substitution Share (%),Deletion Share (%),Insertion Share (%)
+Canadian,Baseline,407,3813,3181,541,91,170,802,21.03,67.46,11.35,21.2
+Canadian,Fine-tuned,407,3813,3213,529,71,126,726,19.04,72.87,9.78,17.36
+Indian,Baseline,650,6640,5737,730,173,908,1811,27.27,40.31,9.55,50.14
+Indian,Fine-tuned,650,6640,6134,468,38,101,607,9.14,77.1,6.26,16.64
+Chinese,Baseline,629,6295,5367,872,56,445,1373,21.81,63.51,4.08,32.41
+Chinese,Fine-tuned,629,6295,5626,596,73,126,795,12.63,74.97,9.18,15.85
+Japanese,Baseline,700,6384,4461,1407,516,982,2905,45.5,48.43,17.76,33.8
+Japanese,Fine-tuned,700,6384,5240,1021,123,195,1339,20.97,76.25,9.19,14.56
+Korean,Baseline,450,4100,3517,452,131,569,1152,28.1,39.24,11.37,49.39
+Korean,Fine-tuned,450,4100,3770,308,22,61,391,9.54,78.77,5.63,15.6

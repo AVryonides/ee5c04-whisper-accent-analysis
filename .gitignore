@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.DS_Store
+.env*
+.ipynb_checkpoints/
+data/*.csv
+*.wav
+*.mp3
+*.pt
+*.bin
+*.safetensors
+checkpoint-*/

@@ -1,0 +1,7 @@
+# Compatible ranges; original environment was not locked.
+pandas>=2,<3
+jiwer>=4,<5
+cmudict>=1,<2
+# Optional audio inspection:
+datasets[audio]>=4,<5
+soundfile>=0.13,<1
